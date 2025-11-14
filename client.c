@@ -9,7 +9,7 @@
 
 #pragma comment(lib, "Ws2_32.lib")
 
-#define SERVER_IP   "127.0.0.1"
+#define SERVER_IP   "172.16.135.3"
 #define SERVER_PORT 8080
 
 #define C_RESET   "\x1b[0m"
